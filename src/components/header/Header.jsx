@@ -18,7 +18,7 @@ export function Header() {
             navbarScroll
           >
             <Nav.Link href="/">Главная</Nav.Link>
-        <Nav.Link href="/catalog">Каталог</Nav.Link>
+            <Nav.Link href="/catalog">Каталог</Nav.Link>
             
             
           </Nav>
